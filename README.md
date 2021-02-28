@@ -25,8 +25,8 @@ Visit http://localhost:8080/hello and run `api.hello('world')` in the devTools c
 
 ```
 [HMR] Waiting for update signal from WDS...
-index.js:48 [WDS] Hot Module Replacement enabled.
-index.js:52 [WDS] Live Reloading enabled.
+[WDS] Hot Module Replacement enabled.
+[WDS] Live Reloading enabled.
 > api.hello('world')
 VM322:1 Uncaught TypeError: api.hello is not a function
     at <anonymous>:1:5
